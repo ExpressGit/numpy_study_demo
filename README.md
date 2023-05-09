@@ -9,4 +9,6 @@
 # numpy视频录制
 | 日期 | 标题 | 封面 | 时长 | 视频（播放数） |
 | --: | -- | -- | --: | -- |
-| 5/5/23 | 10天玩转numpy-day01-基础入门 | <img src="images/day01.jpg" width="200px"/> | 10:30 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1y24y1T7dG)](https://www.bilibili.com/video/BV1y24y1T7dG)|
+| 5/09/23 | 10天玩转numpy-day03-数组创建| <img src="images/day03.jpg" width="200px"/> | 13:02 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1ph41157Nv)](https://www.bilibili.com/video/BV1ph41157Nv)|
+| 5/07/23 | 10天玩转numpy-day02-ndarray| <img src="images/day02.jpg" width="200px"/> | 20:37 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1ch411j7zx)](https://www.bilibili.com/video/BV1ch411j7zx)|
+| 5/05/23 | 10天玩转numpy-day01-基础入门 | <img src="images/day01.jpg" width="200px"/> | 10:30 | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1y24y1T7dG)](https://www.bilibili.com/video/BV1y24y1T7dG)|
